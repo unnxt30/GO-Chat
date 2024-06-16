@@ -4,6 +4,10 @@ A real-time chat server and client written in GO.
 
 
 
+https://github.com/unnxt30/GO-Chat/assets/105226341/96806b35-a421-46e3-8a83-03c1d2ce167a
+
+
+
 ### Techniques Utilised:
 - `net` package of GO Standard Library
 - `channels` & `goroutines` to maintain concurrency in communication between multiple clients and server
